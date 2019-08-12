@@ -6,7 +6,10 @@
 
 @section('contenido') 
 
-Vista  CONSULTA de alumno desde servidor
+Vista  CONSULTA de alumno
+
+primer cambio desde servidor 
+segundo cambio desde servidor
 
 
 @endsection
